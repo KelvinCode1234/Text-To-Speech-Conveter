@@ -1,0 +1,1 @@
+This Text to Speech converter is a dynamic tool designed to transform written text into clear, synthesized speech. Created with a user-friendly interface, it allows users to easily input or paste text and instantly hear it read aloud.
